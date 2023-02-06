@@ -98,7 +98,11 @@ The Omission Detection Dataset OLDS in our work is available at [Google Drive]()
         ```
 
 ## Citation
-
-    @article{
-    
-    }
+If you find OLDS useful in your work, you can cite the paper as below:
+```
+@inproceedings{Yicheng2022OLDS,
+    Author    = {Kaitao Song, Yichong Leng, Xu Tan, Yicheng Zou, Tao Qin, Dongsheng Li},
+    Title     = {Towards Understanding Omission in Dialogue Summarization},
+    Year      = {2022}
+}
+```
