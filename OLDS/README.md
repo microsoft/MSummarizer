@@ -5,22 +5,8 @@
 ## Environments
 
 * Python 3.9.12
- 
-* pytorch 1.12.1
-
-* transformers 4.21.1
-
-* datasets 2.0.0
-
-* bert_score 0.3.11
-
-* rouge_score 0.1.2
-
-* accelerate 0.12.0
 
 * nltk ('punkt')
-
-* sklearn
 
 * RTX V100 GPU & A100 GPU
 
