@@ -3,7 +3,13 @@
 MSummarizer is a research project on summarization tasks. It includes some advanced techniques for solving summarization tasks (e.g., architecture design, data augmentation, error analysis and etc).
 
 The current work in [MSummarizer](MSummarizer/) include:
-* [OLDS](https://arxiv.org/pdf/2211.07145.pdf): Towards Understanding Omission in Dialogue Summarization  
+*  Error Analysis: 
+   + OLDS: [Towards Understanding Omission in Dialogue Summarization](https://arxiv.org/pdf/2211.07145.pdf)
+
+## Reference
+
+If you find this project useful in your work, you can cite the following papers if there's a need:
+* [1] **Towards Understanding Omission in Dialogue Summarization**, Yicheng Zou, Kaitao Song, Xu Tan, Zhongkai Fu, Tao Gui, Qi Zhang, Dongsheng Li, **ACL2023**.
 
 
 ## Contributing
