@@ -1,9 +1,9 @@
 # MSummarizer
 
-MSummarizer is a research project on summarization tasks. It includes some advanced techniques for solving summarization tasks (e.g., architecture design, data augmentation, error analysis and etc).
+MSummarizer is a research project on summarization tasks. It includes some advanced techniques for solving summarization tasks (e.g., architecture design, data augmentation, datasets and etc).
 
 The current work in [MSummarizer](MSummarizer/) include:
-*  Error Analysis: 
+*  Datasets: 
    + OLDS: [Towards Understanding Omission in Dialogue Summarization](https://arxiv.org/pdf/2211.07145.pdf)
 
 ## Reference
