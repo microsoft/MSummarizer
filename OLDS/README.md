@@ -3,14 +3,12 @@
 [Towards Understanding Omission in Dialogue Summarization](https://arxiv.org/abs/2211.07145) by Yicheng Zou, Kaitao Song, Xu Tan, Zhongkai Fu, Tao Gui, Qi Zhang, Dongsheng Li, is a study to understand **Omission Problem** in Dialogue Summarization. We present a definition of Omission information at the sentence level, and give an automatic labelling pipeline to obtain omission information from the omission and its summarization, and our collected dataset is called **OLDS**. We introduce different solutions to address omission detection and how to utilize omission information to improve model performance.
 
 ## Environments
+The system requirements need `Python >= 3.9.12`, `nltk ('punkt')`. To deploy our method, you first need NVIDIA V100 GPU or A100 GPU, where the `CUDA >= 11.7`, and run the environment as:
+```bash
+pip install -r requirments.txt
+```
 
-* Python 3.9.12
 
-* nltk ('punkt')
-
-* RTX V100 GPU & A100 GPU
-
-* CUDA 11.7
 
 ## Data
 
