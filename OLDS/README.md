@@ -16,19 +16,14 @@ The Omission Detection Dataset OLDS in our work is available at [Google Drive]()
 
 * Download the OLDS dataset from the above data links and put them into the directory **data** like this:
 
-	```
-	--- data
-	  |
-	  |--- dialogsum
-	  |
-      |--- emailsum
-      |
-      |--- qmsum
-      |
-      |--- samsum
-      |
-      |--- tweetsumm
-	```
+    ```
+    ─ data
+	  ├── dialogsum
+	  ├── emailsum
+	  ├── qmsum
+	  ├── samsum
+	  └── tweetsumm
+    ```
 
 * We could load these sub-datasets via the commands of [datasets tool (HuggingFace)](https://huggingface.co/docs/datasets/index).
 
@@ -87,6 +82,7 @@ If you find OLDS useful in your work, you can cite the paper as below:
 @inproceedings{Yicheng2022OLDS,
     Author    = {Kaitao Song, Yichong Leng, Xu Tan, Yicheng Zou, Tao Qin, Dongsheng Li},
     Title     = {Towards Understanding Omission in Dialogue Summarization},
+    Booktitle = {The 61st Annual Meeting of the Association for Computational Linguistics (ACL)},
     Year      = {2022}
 }
 ```
