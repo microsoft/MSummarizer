@@ -12,14 +12,15 @@ pip install -r requirments.txt
 
 ## Data
 
-The Omission Detection Dataset OLDS in our work is available at [Google Drive]() or [Baidu Pan  (extract code: xxxx)](), including sub-domains SAMSum, DialogSum, EmailSum, QMSum, and TweetSumm.
+The Omission Detection Dataset OLDS in our work is available at [Here](https://msramldl.blob.core.windows.net/modelrelease/data.zip), including sub-domains SAMSum, DialogSum, EmailSum, QMSum, and TweetSumm.
 
 * Download the OLDS dataset from the above data links and put them into the directory **data** like this:
 
     ```
     ─ data
 	  ├── dialogsum
-	  ├── emailsum
+	  ├── emailsum_long
+	  ├── emailsum_short
 	  ├── qmsum
 	  ├── samsum
 	  └── tweetsumm
